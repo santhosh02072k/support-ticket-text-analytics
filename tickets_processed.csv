@@ -1,0 +1,801 @@
+ticket_id,category,ticket_text,sentiment_score,sentiment_label,escalated,resolution_hours
+TICKET00000,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,2.6
+TICKET00001,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,8.2
+TICKET00002,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,11.3
+TICKET00003,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,1.2
+TICKET00004,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,0.2
+TICKET00005,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,0,20.2
+TICKET00006,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,0,4.1
+TICKET00007,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,7.6
+TICKET00008,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,1,7.9
+TICKET00009,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,1,20.9
+TICKET00010,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,2.7
+TICKET00011,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,11.9
+TICKET00012,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,1,2.8
+TICKET00013,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,1,2.2
+TICKET00014,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,3.8
+TICKET00015,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,3.9
+TICKET00016,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,2.3
+TICKET00017,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,5.9
+TICKET00018,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,9.5
+TICKET00019,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,2.5
+TICKET00020,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,13.5
+TICKET00021,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,7.0
+TICKET00022,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,0,5.9
+TICKET00023,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,0,19.0
+TICKET00024,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,0,12.9
+TICKET00025,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,3.3
+TICKET00026,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,1,27.2
+TICKET00027,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,5.6
+TICKET00028,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,0,9.9
+TICKET00029,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,5.0
+TICKET00030,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,0,12.2
+TICKET00031,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,5.9
+TICKET00032,Shipping/Delivery,Tracking says delivered but I never received anything.,0.0,Neutral,0,4.0
+TICKET00033,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,7.1
+TICKET00034,Shipping/Delivery,Tracking says delivered but I never received anything.,0.0,Neutral,0,4.3
+TICKET00035,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,1,19.8
+TICKET00036,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,1,17.7
+TICKET00037,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,0,37.9
+TICKET00038,Shipping/Delivery,"This delay is unacceptable, I needed this for an event.",-0.6486,Negative,0,12.3
+TICKET00039,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,0.5
+TICKET00040,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,3.5
+TICKET00041,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,0,4.3
+TICKET00042,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,0,5.2
+TICKET00043,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,1.4
+TICKET00044,Shipping/Delivery,Tracking says delivered but I never received anything.,0.0,Neutral,0,9.6
+TICKET00045,Shipping/Delivery,"This delay is unacceptable, I needed this for an event.",-0.6486,Negative,0,22.5
+TICKET00046,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,1.4
+TICKET00047,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,1,10.8
+TICKET00048,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,1.9
+TICKET00049,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,1.1
+TICKET00050,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,0,4.5
+TICKET00051,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,11.8
+TICKET00052,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,4.7
+TICKET00053,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,2.7
+TICKET00054,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,1.6
+TICKET00055,Account Access,"Two-factor authentication code never arrives, I'm stuck.",0.1877,Neutral,0,2.4
+TICKET00056,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,8.3
+TICKET00057,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,1,41.8
+TICKET00058,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,7.2
+TICKET00059,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,1,14.9
+TICKET00060,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,1,2.4
+TICKET00061,Shipping/Delivery,"This delay is unacceptable, I needed this for an event.",-0.6486,Negative,1,42.7
+TICKET00062,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,2.6
+TICKET00063,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,3.6
+TICKET00064,Shipping/Delivery,"This delay is unacceptable, I needed this for an event.",-0.6486,Negative,1,26.2
+TICKET00065,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,0.9
+TICKET00066,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,1,42.4
+TICKET00067,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,8.0
+TICKET00068,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,0,10.9
+TICKET00069,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,1,17.8
+TICKET00070,Account Access,"Two-factor authentication code never arrives, I'm stuck.",0.1877,Neutral,0,24.0
+TICKET00071,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,2.4
+TICKET00072,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,1,18.0
+TICKET00073,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,0,9.4
+TICKET00074,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,1,7.1
+TICKET00075,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,3.0
+TICKET00076,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,1.3
+TICKET00077,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,0,2.7
+TICKET00078,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,1.7
+TICKET00079,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,1,19.4
+TICKET00080,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,15.6
+TICKET00081,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,0,15.2
+TICKET00082,Shipping/Delivery,Tracking says delivered but I never received anything.,0.0,Neutral,0,20.9
+TICKET00083,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,2.3
+TICKET00084,Account Access,"Two-factor authentication code never arrives, I'm stuck.",0.1877,Neutral,0,0.9
+TICKET00085,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,8.3
+TICKET00086,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,1.9
+TICKET00087,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,1,3.5
+TICKET00088,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,1,24.3
+TICKET00089,Shipping/Delivery,Tracking says delivered but I never received anything.,0.0,Neutral,1,19.8
+TICKET00090,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,9.6
+TICKET00091,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,7.0
+TICKET00092,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,8.4
+TICKET00093,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,1,30.6
+TICKET00094,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,0,8.5
+TICKET00095,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,0.5
+TICKET00096,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,0,2.3
+TICKET00097,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,7.7
+TICKET00098,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,2.9
+TICKET00099,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,0,2.6
+TICKET00100,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,0,13.3
+TICKET00101,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,3.9
+TICKET00102,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,2.3
+TICKET00103,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,3.9
+TICKET00104,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,3.6
+TICKET00105,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,0,28.8
+TICKET00106,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,21.6
+TICKET00107,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,7.2
+TICKET00108,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,24.4
+TICKET00109,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,6.3
+TICKET00110,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,1,24.7
+TICKET00111,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,0,14.7
+TICKET00112,Shipping/Delivery,"This delay is unacceptable, I needed this for an event.",-0.6486,Negative,0,3.3
+TICKET00113,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,4.0
+TICKET00114,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,0.2
+TICKET00115,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,1,14.6
+TICKET00116,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,0,6.7
+TICKET00117,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,1,15.1
+TICKET00118,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,0,2.2
+TICKET00119,Account Access,"Two-factor authentication code never arrives, I'm stuck.",0.1877,Neutral,0,10.1
+TICKET00120,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,4.5
+TICKET00121,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,1,7.2
+TICKET00122,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,1.2
+TICKET00123,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,7.9
+TICKET00124,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,2.9
+TICKET00125,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,14.6
+TICKET00126,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,5.3
+TICKET00127,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,9.1
+TICKET00128,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,1,10.8
+TICKET00129,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,1,9.3
+TICKET00130,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,0.5
+TICKET00131,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,10.9
+TICKET00132,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,0,16.7
+TICKET00133,Shipping/Delivery,"This delay is unacceptable, I needed this for an event.",-0.6486,Negative,0,10.0
+TICKET00134,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,1,14.7
+TICKET00135,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,3.2
+TICKET00136,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,1,14.9
+TICKET00137,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,5.0
+TICKET00138,Shipping/Delivery,"This delay is unacceptable, I needed this for an event.",-0.6486,Negative,0,0.6
+TICKET00139,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,1,21.9
+TICKET00140,Shipping/Delivery,Tracking says delivered but I never received anything.,0.0,Neutral,0,2.3
+TICKET00141,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,1,4.6
+TICKET00142,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,0,5.9
+TICKET00143,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,1.2
+TICKET00144,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,16.7
+TICKET00145,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,0,7.7
+TICKET00146,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,0.4
+TICKET00147,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,2.1
+TICKET00148,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,0.3
+TICKET00149,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,1,13.0
+TICKET00150,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,1,12.1
+TICKET00151,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,1,17.5
+TICKET00152,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,0,4.6
+TICKET00153,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,3.3
+TICKET00154,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,9.4
+TICKET00155,Shipping/Delivery,Tracking says delivered but I never received anything.,0.0,Neutral,0,5.5
+TICKET00156,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,20.0
+TICKET00157,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,6.7
+TICKET00158,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,8.0
+TICKET00159,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,5.3
+TICKET00160,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,7.6
+TICKET00161,Account Access,"Two-factor authentication code never arrives, I'm stuck.",0.1877,Neutral,0,4.2
+TICKET00162,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,1,13.6
+TICKET00163,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,9.3
+TICKET00164,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,0,10.3
+TICKET00165,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,1,30.0
+TICKET00166,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,1,43.5
+TICKET00167,Account Access,"Two-factor authentication code never arrives, I'm stuck.",0.1877,Neutral,0,9.4
+TICKET00168,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,3.4
+TICKET00169,Account Access,"Two-factor authentication code never arrives, I'm stuck.",0.1877,Neutral,1,5.7
+TICKET00170,Shipping/Delivery,Tracking says delivered but I never received anything.,0.0,Neutral,0,11.4
+TICKET00171,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,0.4
+TICKET00172,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,5.6
+TICKET00173,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,13.6
+TICKET00174,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,3.8
+TICKET00175,Shipping/Delivery,Tracking says delivered but I never received anything.,0.0,Neutral,1,13.5
+TICKET00176,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,8.3
+TICKET00177,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,0,5.6
+TICKET00178,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,14.5
+TICKET00179,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,2.8
+TICKET00180,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,5.2
+TICKET00181,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,1,21.1
+TICKET00182,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,1,19.9
+TICKET00183,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,1,51.5
+TICKET00184,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,1,27.0
+TICKET00185,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,6.9
+TICKET00186,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,10.3
+TICKET00187,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,1,18.7
+TICKET00188,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,2.3
+TICKET00189,Account Access,"Two-factor authentication code never arrives, I'm stuck.",0.1877,Neutral,0,3.3
+TICKET00190,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,1.4
+TICKET00191,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,16.8
+TICKET00192,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,3.6
+TICKET00193,Shipping/Delivery,"This delay is unacceptable, I needed this for an event.",-0.6486,Negative,0,9.2
+TICKET00194,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,3.3
+TICKET00195,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,1,6.6
+TICKET00196,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,0,3.0
+TICKET00197,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,0,4.9
+TICKET00198,Shipping/Delivery,"This delay is unacceptable, I needed this for an event.",-0.6486,Negative,0,1.4
+TICKET00199,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,3.8
+TICKET00200,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,3.7
+TICKET00201,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,8.9
+TICKET00202,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,0,2.6
+TICKET00203,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,1.2
+TICKET00204,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,0,8.1
+TICKET00205,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,0,7.2
+TICKET00206,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,1,7.2
+TICKET00207,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,11.9
+TICKET00208,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,1,31.9
+TICKET00209,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,0,3.6
+TICKET00210,Shipping/Delivery,Tracking says delivered but I never received anything.,0.0,Neutral,0,0.4
+TICKET00211,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,12.8
+TICKET00212,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,1,15.3
+TICKET00213,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,0,10.3
+TICKET00214,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,9.7
+TICKET00215,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,1,8.6
+TICKET00216,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,0.6
+TICKET00217,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,0.8
+TICKET00218,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,1,24.7
+TICKET00219,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,2.3
+TICKET00220,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,1,40.3
+TICKET00221,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,0,2.2
+TICKET00222,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,4.1
+TICKET00223,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,2.1
+TICKET00224,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,13.1
+TICKET00225,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,6.5
+TICKET00226,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,2.8
+TICKET00227,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,0,3.7
+TICKET00228,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,0,9.5
+TICKET00229,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,9.5
+TICKET00230,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,3.4
+TICKET00231,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,3.9
+TICKET00232,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,0,11.1
+TICKET00233,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,8.9
+TICKET00234,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,1.9
+TICKET00235,Shipping/Delivery,"This delay is unacceptable, I needed this for an event.",-0.6486,Negative,1,21.1
+TICKET00236,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,1,21.7
+TICKET00237,Account Access,"Two-factor authentication code never arrives, I'm stuck.",0.1877,Neutral,1,14.5
+TICKET00238,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,1,32.9
+TICKET00239,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,3.0
+TICKET00240,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,1,22.1
+TICKET00241,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,12.4
+TICKET00242,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,4.4
+TICKET00243,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,0,12.6
+TICKET00244,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,0,5.7
+TICKET00245,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,4.9
+TICKET00246,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,2.8
+TICKET00247,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,4.4
+TICKET00248,Account Access,"Two-factor authentication code never arrives, I'm stuck.",0.1877,Neutral,0,10.9
+TICKET00249,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,0,12.1
+TICKET00250,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,7.8
+TICKET00251,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,0,5.2
+TICKET00252,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,3.5
+TICKET00253,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,3.9
+TICKET00254,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,0,8.5
+TICKET00255,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,5.8
+TICKET00256,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,0,10.8
+TICKET00257,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,6.6
+TICKET00258,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,3.3
+TICKET00259,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,3.3
+TICKET00260,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,1.8
+TICKET00261,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,5.1
+TICKET00262,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,0,5.5
+TICKET00263,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,0,4.5
+TICKET00264,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,1,16.6
+TICKET00265,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,0,20.4
+TICKET00266,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,4.6
+TICKET00267,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,12.4
+TICKET00268,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,0,9.4
+TICKET00269,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,0,0.7
+TICKET00270,Shipping/Delivery,"This delay is unacceptable, I needed this for an event.",-0.6486,Negative,1,10.3
+TICKET00271,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,3.7
+TICKET00272,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,8.7
+TICKET00273,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,6.1
+TICKET00274,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,6.0
+TICKET00275,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,1,12.4
+TICKET00276,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,1,18.8
+TICKET00277,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,0,18.4
+TICKET00278,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,3.9
+TICKET00279,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,2.0
+TICKET00280,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,3.2
+TICKET00281,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,1.9
+TICKET00282,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,3.7
+TICKET00283,Account Access,"Two-factor authentication code never arrives, I'm stuck.",0.1877,Neutral,0,2.3
+TICKET00284,Shipping/Delivery,"This delay is unacceptable, I needed this for an event.",-0.6486,Negative,0,17.5
+TICKET00285,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,1.4
+TICKET00286,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,0,6.5
+TICKET00287,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,1,19.3
+TICKET00288,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,7.8
+TICKET00289,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,5.1
+TICKET00290,Shipping/Delivery,"This delay is unacceptable, I needed this for an event.",-0.6486,Negative,1,12.5
+TICKET00291,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,1.5
+TICKET00292,Account Access,"Two-factor authentication code never arrives, I'm stuck.",0.1877,Neutral,0,0.7
+TICKET00293,Shipping/Delivery,Tracking says delivered but I never received anything.,0.0,Neutral,0,11.9
+TICKET00294,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,2.2
+TICKET00295,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,0,6.4
+TICKET00296,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,0,7.5
+TICKET00297,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,0,6.9
+TICKET00298,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,2.5
+TICKET00299,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,0,2.0
+TICKET00300,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,0,2.9
+TICKET00301,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,0,8.7
+TICKET00302,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,0,7.6
+TICKET00303,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,9.1
+TICKET00304,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,13.6
+TICKET00305,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,6.6
+TICKET00306,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,0,5.8
+TICKET00307,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,0,0.2
+TICKET00308,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,3.8
+TICKET00309,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,7.2
+TICKET00310,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,1,4.1
+TICKET00311,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,1,2.2
+TICKET00312,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,0,7.1
+TICKET00313,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,4.2
+TICKET00314,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,6.9
+TICKET00315,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,1.9
+TICKET00316,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,1,14.0
+TICKET00317,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,4.6
+TICKET00318,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,0.8
+TICKET00319,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,3.0
+TICKET00320,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,8.8
+TICKET00321,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,0,9.0
+TICKET00322,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,4.3
+TICKET00323,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,1,15.7
+TICKET00324,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,1,2.3
+TICKET00325,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,12.4
+TICKET00326,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,12.7
+TICKET00327,Account Access,"Two-factor authentication code never arrives, I'm stuck.",0.1877,Neutral,0,9.8
+TICKET00328,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,0,0.4
+TICKET00329,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,7.4
+TICKET00330,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,4.0
+TICKET00331,Shipping/Delivery,"This delay is unacceptable, I needed this for an event.",-0.6486,Negative,1,52.7
+TICKET00332,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,3.5
+TICKET00333,Account Access,"Two-factor authentication code never arrives, I'm stuck.",0.1877,Neutral,0,6.7
+TICKET00334,Shipping/Delivery,Tracking says delivered but I never received anything.,0.0,Neutral,0,0.6
+TICKET00335,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,0,2.6
+TICKET00336,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,0,9.7
+TICKET00337,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,1.5
+TICKET00338,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,1,28.3
+TICKET00339,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,2.2
+TICKET00340,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,1,6.2
+TICKET00341,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,0,6.0
+TICKET00342,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,1.3
+TICKET00343,Account Access,I can't access my account from my new phone.,0.0,Neutral,1,14.5
+TICKET00344,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,1,28.4
+TICKET00345,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,9.0
+TICKET00346,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,9.1
+TICKET00347,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,2.3
+TICKET00348,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,11.6
+TICKET00349,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,4.7
+TICKET00350,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,0,27.8
+TICKET00351,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,1.8
+TICKET00352,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,3.5
+TICKET00353,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,4.1
+TICKET00354,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,2.7
+TICKET00355,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,1,28.7
+TICKET00356,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,2.1
+TICKET00357,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,1,5.2
+TICKET00358,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,5.8
+TICKET00359,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,0,6.7
+TICKET00360,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,1,6.3
+TICKET00361,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,1,18.3
+TICKET00362,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,0,11.1
+TICKET00363,Shipping/Delivery,Tracking says delivered but I never received anything.,0.0,Neutral,1,18.2
+TICKET00364,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,5.0
+TICKET00365,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,1,19.5
+TICKET00366,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,10.9
+TICKET00367,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,2.0
+TICKET00368,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,6.9
+TICKET00369,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,9.4
+TICKET00370,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,1,6.6
+TICKET00371,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,6.6
+TICKET00372,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,2.9
+TICKET00373,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,6.8
+TICKET00374,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,0,7.5
+TICKET00375,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,22.0
+TICKET00376,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,1.8
+TICKET00377,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,1.2
+TICKET00378,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,2.9
+TICKET00379,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,0,3.8
+TICKET00380,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,3.1
+TICKET00381,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,0,7.3
+TICKET00382,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,5.5
+TICKET00383,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,5.7
+TICKET00384,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,3.1
+TICKET00385,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,1,1.1
+TICKET00386,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,3.5
+TICKET00387,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,17.6
+TICKET00388,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,1,15.2
+TICKET00389,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,16.0
+TICKET00390,Shipping/Delivery,Tracking says delivered but I never received anything.,0.0,Neutral,0,5.6
+TICKET00391,Account Access,I can't access my account from my new phone.,0.0,Neutral,1,9.6
+TICKET00392,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,1,7.7
+TICKET00393,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,8.5
+TICKET00394,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,5.6
+TICKET00395,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,1,15.7
+TICKET00396,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,6.1
+TICKET00397,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,1,21.1
+TICKET00398,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,9.6
+TICKET00399,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,5.4
+TICKET00400,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,0,2.8
+TICKET00401,Account Access,I can't access my account from my new phone.,0.0,Neutral,1,17.5
+TICKET00402,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,2.3
+TICKET00403,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,2.6
+TICKET00404,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,6.2
+TICKET00405,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,5.6
+TICKET00406,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,0,4.1
+TICKET00407,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,14.3
+TICKET00408,Account Access,"Two-factor authentication code never arrives, I'm stuck.",0.1877,Neutral,1,3.7
+TICKET00409,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,0,2.4
+TICKET00410,Shipping/Delivery,"This delay is unacceptable, I needed this for an event.",-0.6486,Negative,1,12.7
+TICKET00411,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,0,11.7
+TICKET00412,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,13.9
+TICKET00413,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,13.2
+TICKET00414,Shipping/Delivery,"This delay is unacceptable, I needed this for an event.",-0.6486,Negative,1,14.7
+TICKET00415,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,0,5.6
+TICKET00416,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,0,22.9
+TICKET00417,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,1,30.3
+TICKET00418,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,1.1
+TICKET00419,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,0,24.9
+TICKET00420,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,2.4
+TICKET00421,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,5.0
+TICKET00422,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,0,13.6
+TICKET00423,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,4.2
+TICKET00424,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,0.4
+TICKET00425,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,7.2
+TICKET00426,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,12.6
+TICKET00427,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,0,3.8
+TICKET00428,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,3.9
+TICKET00429,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,1,23.4
+TICKET00430,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,0,5.4
+TICKET00431,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,2.6
+TICKET00432,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,0,2.9
+TICKET00433,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,9.3
+TICKET00434,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,0,26.7
+TICKET00435,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,6.5
+TICKET00436,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,9.2
+TICKET00437,Account Access,"Two-factor authentication code never arrives, I'm stuck.",0.1877,Neutral,0,7.8
+TICKET00438,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,8.2
+TICKET00439,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,3.7
+TICKET00440,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,2.8
+TICKET00441,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,9.6
+TICKET00442,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,1,17.8
+TICKET00443,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,1,4.2
+TICKET00444,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,6.6
+TICKET00445,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,9.3
+TICKET00446,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,7.4
+TICKET00447,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,4.8
+TICKET00448,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,6.5
+TICKET00449,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,3.1
+TICKET00450,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,6.1
+TICKET00451,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,7.1
+TICKET00452,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,0,8.6
+TICKET00453,Shipping/Delivery,"This delay is unacceptable, I needed this for an event.",-0.6486,Negative,1,37.6
+TICKET00454,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,0,6.4
+TICKET00455,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,0,6.5
+TICKET00456,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,4.7
+TICKET00457,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,4.0
+TICKET00458,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,1,32.5
+TICKET00459,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,0,7.2
+TICKET00460,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,0,4.4
+TICKET00461,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,0,5.9
+TICKET00462,Shipping/Delivery,Tracking says delivered but I never received anything.,0.0,Neutral,1,27.5
+TICKET00463,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,8.3
+TICKET00464,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,3.1
+TICKET00465,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,5.1
+TICKET00466,Account Access,"Two-factor authentication code never arrives, I'm stuck.",0.1877,Neutral,1,1.2
+TICKET00467,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,1,13.6
+TICKET00468,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,0,6.9
+TICKET00469,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,0,11.5
+TICKET00470,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,0,4.9
+TICKET00471,Shipping/Delivery,Tracking says delivered but I never received anything.,0.0,Neutral,0,5.1
+TICKET00472,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,3.8
+TICKET00473,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,0,5.3
+TICKET00474,Account Access,"Two-factor authentication code never arrives, I'm stuck.",0.1877,Neutral,1,7.2
+TICKET00475,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,4.2
+TICKET00476,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,0,10.8
+TICKET00477,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,0,1.7
+TICKET00478,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,0,6.7
+TICKET00479,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,0,12.1
+TICKET00480,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,16.1
+TICKET00481,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,7.4
+TICKET00482,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,1,9.4
+TICKET00483,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,12.9
+TICKET00484,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,1,20.2
+TICKET00485,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,6.4
+TICKET00486,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,6.5
+TICKET00487,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,2.8
+TICKET00488,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,1.7
+TICKET00489,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,4.5
+TICKET00490,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,0,12.2
+TICKET00491,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,0,12.4
+TICKET00492,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,2.8
+TICKET00493,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,1,21.8
+TICKET00494,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,2.6
+TICKET00495,Shipping/Delivery,Tracking says delivered but I never received anything.,0.0,Neutral,0,8.1
+TICKET00496,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,5.4
+TICKET00497,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,1,4.7
+TICKET00498,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,0,4.8
+TICKET00499,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,3.9
+TICKET00500,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,12.8
+TICKET00501,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,6.3
+TICKET00502,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,9.6
+TICKET00503,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,3.8
+TICKET00504,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,0,8.4
+TICKET00505,Shipping/Delivery,Tracking says delivered but I never received anything.,0.0,Neutral,1,3.1
+TICKET00506,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,7.4
+TICKET00507,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,0,6.4
+TICKET00508,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,3.8
+TICKET00509,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,1,18.4
+TICKET00510,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,0,18.1
+TICKET00511,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,0,6.0
+TICKET00512,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,0,6.9
+TICKET00513,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,1,25.7
+TICKET00514,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,3.4
+TICKET00515,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,8.1
+TICKET00516,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,0,8.4
+TICKET00517,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,9.6
+TICKET00518,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,0,8.8
+TICKET00519,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,1,13.2
+TICKET00520,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,16.7
+TICKET00521,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,18.9
+TICKET00522,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,0,7.8
+TICKET00523,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,1,30.3
+TICKET00524,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,1.6
+TICKET00525,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,1,24.0
+TICKET00526,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,14.3
+TICKET00527,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,5.3
+TICKET00528,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,1,46.9
+TICKET00529,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,0,10.1
+TICKET00530,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,5.6
+TICKET00531,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,0,3.0
+TICKET00532,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,0,5.8
+TICKET00533,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,0,11.1
+TICKET00534,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,0.7
+TICKET00535,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,6.2
+TICKET00536,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,5.1
+TICKET00537,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,8.3
+TICKET00538,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,0,5.6
+TICKET00539,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,1,2.8
+TICKET00540,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,0,10.9
+TICKET00541,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,18.6
+TICKET00542,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,0,2.9
+TICKET00543,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,3.8
+TICKET00544,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,1.7
+TICKET00545,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,1,0.8
+TICKET00546,Account Access,I can't access my account from my new phone.,0.0,Neutral,1,35.3
+TICKET00547,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,14.2
+TICKET00548,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,0,0.1
+TICKET00549,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,0,1.6
+TICKET00550,Shipping/Delivery,Tracking says delivered but I never received anything.,0.0,Neutral,0,7.1
+TICKET00551,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,4.0
+TICKET00552,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,12.0
+TICKET00553,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,1,11.7
+TICKET00554,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,3.5
+TICKET00555,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,12.7
+TICKET00556,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,3.0
+TICKET00557,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,4.3
+TICKET00558,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,0,9.4
+TICKET00559,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,7.7
+TICKET00560,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,1,11.4
+TICKET00561,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,5.4
+TICKET00562,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,1,13.6
+TICKET00563,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,0,8.3
+TICKET00564,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,5.8
+TICKET00565,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,1,27.2
+TICKET00566,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,14.6
+TICKET00567,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,5.5
+TICKET00568,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,0,7.9
+TICKET00569,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,2.1
+TICKET00570,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,0,10.8
+TICKET00571,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,2.3
+TICKET00572,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,0,10.7
+TICKET00573,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,3.7
+TICKET00574,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,0,10.8
+TICKET00575,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,3.5
+TICKET00576,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,1,7.2
+TICKET00577,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,8.9
+TICKET00578,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,0,8.9
+TICKET00579,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,0,6.8
+TICKET00580,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,9.2
+TICKET00581,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,0,0.8
+TICKET00582,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,1,32.2
+TICKET00583,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,7.9
+TICKET00584,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,1,11.1
+TICKET00585,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,1.8
+TICKET00586,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,7.1
+TICKET00587,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,1,41.8
+TICKET00588,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,12.9
+TICKET00589,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,2.9
+TICKET00590,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,6.4
+TICKET00591,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,0,5.9
+TICKET00592,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,7.8
+TICKET00593,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,6.6
+TICKET00594,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,3.1
+TICKET00595,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,10.7
+TICKET00596,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,0,7.0
+TICKET00597,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,11.0
+TICKET00598,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,0,3.5
+TICKET00599,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,8.7
+TICKET00600,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,2.5
+TICKET00601,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,11.7
+TICKET00602,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,1,11.7
+TICKET00603,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,5.1
+TICKET00604,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,1,50.2
+TICKET00605,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,8.7
+TICKET00606,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,1,31.2
+TICKET00607,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,1,27.9
+TICKET00608,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,11.1
+TICKET00609,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,0,6.9
+TICKET00610,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,12.9
+TICKET00611,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,1,1.9
+TICKET00612,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,0.8
+TICKET00613,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,1,13.4
+TICKET00614,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,1,10.6
+TICKET00615,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,2.0
+TICKET00616,Account Access,I can't access my account from my new phone.,0.0,Neutral,1,9.5
+TICKET00617,Account Access,"Two-factor authentication code never arrives, I'm stuck.",0.1877,Neutral,1,22.2
+TICKET00618,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,0,5.1
+TICKET00619,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,3.7
+TICKET00620,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,1,19.7
+TICKET00621,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,0,1.6
+TICKET00622,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,0,10.1
+TICKET00623,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,1,35.5
+TICKET00624,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,0,2.7
+TICKET00625,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,3.0
+TICKET00626,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,2.6
+TICKET00627,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,1,16.8
+TICKET00628,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,0,8.2
+TICKET00629,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,4.4
+TICKET00630,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,9.8
+TICKET00631,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,18.5
+TICKET00632,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,1,3.6
+TICKET00633,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,2.7
+TICKET00634,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,3.3
+TICKET00635,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,7.1
+TICKET00636,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,5.9
+TICKET00637,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,3.4
+TICKET00638,Shipping/Delivery,Tracking says delivered but I never received anything.,0.0,Neutral,0,6.7
+TICKET00639,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,1,15.3
+TICKET00640,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,0,9.5
+TICKET00641,Shipping/Delivery,"This delay is unacceptable, I needed this for an event.",-0.6486,Negative,0,3.1
+TICKET00642,Shipping/Delivery,Tracking says delivered but I never received anything.,0.0,Neutral,0,14.8
+TICKET00643,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,6.8
+TICKET00644,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,0,14.4
+TICKET00645,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,0,9.8
+TICKET00646,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,1,4.7
+TICKET00647,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,0,5.2
+TICKET00648,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,0,28.2
+TICKET00649,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,7.7
+TICKET00650,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,6.0
+TICKET00651,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,5.9
+TICKET00652,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,0,10.2
+TICKET00653,Account Access,I can't access my account from my new phone.,0.0,Neutral,1,6.9
+TICKET00654,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,1,28.8
+TICKET00655,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,3.4
+TICKET00656,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,1,10.6
+TICKET00657,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,0,3.8
+TICKET00658,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,0,3.3
+TICKET00659,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,7.3
+TICKET00660,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,4.8
+TICKET00661,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,0.5
+TICKET00662,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,17.6
+TICKET00663,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,1.7
+TICKET00664,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,1,17.0
+TICKET00665,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,0,6.5
+TICKET00666,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,1.1
+TICKET00667,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,1,4.6
+TICKET00668,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,17.6
+TICKET00669,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,1,49.7
+TICKET00670,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,1.6
+TICKET00671,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,6.2
+TICKET00672,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,9.1
+TICKET00673,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,0,16.6
+TICKET00674,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,4.4
+TICKET00675,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,0,2.8
+TICKET00676,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,5.4
+TICKET00677,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,0,10.2
+TICKET00678,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,0,8.2
+TICKET00679,Shipping/Delivery,"This delay is unacceptable, I needed this for an event.",-0.6486,Negative,0,6.6
+TICKET00680,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,5.6
+TICKET00681,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,9.4
+TICKET00682,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,7.0
+TICKET00683,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,0,4.6
+TICKET00684,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,1.1
+TICKET00685,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,0,6.4
+TICKET00686,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,7.6
+TICKET00687,Account Access,"Two-factor authentication code never arrives, I'm stuck.",0.1877,Neutral,0,7.1
+TICKET00688,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,3.4
+TICKET00689,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,5.0
+TICKET00690,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,3.0
+TICKET00691,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,1.6
+TICKET00692,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,2.0
+TICKET00693,Shipping/Delivery,Tracking says delivered but I never received anything.,0.0,Neutral,0,10.6
+TICKET00694,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,0,23.0
+TICKET00695,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,0,13.5
+TICKET00696,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,0,3.3
+TICKET00697,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,0,11.1
+TICKET00698,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,6.8
+TICKET00699,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,1,15.4
+TICKET00700,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,3.3
+TICKET00701,Shipping/Delivery,"This delay is unacceptable, I needed this for an event.",-0.6486,Negative,1,14.2
+TICKET00702,Account Access,"Two-factor authentication code never arrives, I'm stuck.",0.1877,Neutral,0,4.4
+TICKET00703,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,0,2.4
+TICKET00704,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,1.7
+TICKET00705,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,0,11.5
+TICKET00706,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,1,12.2
+TICKET00707,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,4.3
+TICKET00708,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,10.4
+TICKET00709,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,6.3
+TICKET00710,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,1,43.8
+TICKET00711,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,7.5
+TICKET00712,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,4.1
+TICKET00713,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,0,7.5
+TICKET00714,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,12.4
+TICKET00715,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,0,17.6
+TICKET00716,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,6.5
+TICKET00717,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,11.6
+TICKET00718,Account Access,"Two-factor authentication code never arrives, I'm stuck.",0.1877,Neutral,0,6.3
+TICKET00719,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,0,2.9
+TICKET00720,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,11.6
+TICKET00721,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,2.4
+TICKET00722,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,1,26.2
+TICKET00723,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,0,14.4
+TICKET00724,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,1,31.4
+TICKET00725,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,1,17.6
+TICKET00726,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,2.7
+TICKET00727,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,0,13.3
+TICKET00728,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,0,1.4
+TICKET00729,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,8.5
+TICKET00730,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,1,15.1
+TICKET00731,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,0,4.8
+TICKET00732,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,3.2
+TICKET00733,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,0,7.2
+TICKET00734,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,1,17.3
+TICKET00735,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,1,20.8
+TICKET00736,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,1,44.1
+TICKET00737,Account Access,I can't access my account from my new phone.,0.0,Neutral,1,6.9
+TICKET00738,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,9.4
+TICKET00739,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,3.3
+TICKET00740,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,1.8
+TICKET00741,Shipping/Delivery,"This delay is unacceptable, I needed this for an event.",-0.6486,Negative,1,14.0
+TICKET00742,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,12.8
+TICKET00743,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,9.6
+TICKET00744,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,4.4
+TICKET00745,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,4.5
+TICKET00746,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,10.9
+TICKET00747,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,0,3.3
+TICKET00748,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,3.2
+TICKET00749,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,5.3
+TICKET00750,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,2.4
+TICKET00751,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,1.5
+TICKET00752,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,0,8.1
+TICKET00753,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,4.8
+TICKET00754,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,0,1.5
+TICKET00755,Shipping/Delivery,Can you tell me when my order will actually ship?,0.0,Neutral,0,7.4
+TICKET00756,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,2.5
+TICKET00757,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,0,11.7
+TICKET00758,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,2.9
+TICKET00759,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,1,2.8
+TICKET00760,Account Access,"Two-factor authentication code never arrives, I'm stuck.",0.1877,Neutral,1,14.0
+TICKET00761,Billing,Why is my bill higher than usual? I did not change my plan.,0.0,Neutral,0,20.1
+TICKET00762,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,1,16.6
+TICKET00763,Shipping/Delivery,"This delay is unacceptable, I needed this for an event.",-0.6486,Negative,0,8.3
+TICKET00764,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,0,10.9
+TICKET00765,Technical Issue,The website has been down for me since this morning.,0.0,Neutral,0,4.5
+TICKET00766,Shipping/Delivery,"This delay is unacceptable, I needed this for an event.",-0.6486,Negative,0,6.0
+TICKET00767,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,1,4.6
+TICKET00768,Technical Issue,"Login page won't load, tried on two browsers already.",0.0,Neutral,1,8.1
+TICKET00769,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,0,6.1
+TICKET00770,Shipping/Delivery,Tracking says delivered but I never received anything.,0.0,Neutral,0,4.4
+TICKET00771,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,1,1.7
+TICKET00772,General Inquiry,Just wanted to ask about your return policy before I buy.,0.0,Neutral,0,8.1
+TICKET00773,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,1,42.4
+TICKET00774,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,0.6
+TICKET00775,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging.",-0.7425,Negative,1,60.7
+TICKET00776,Shipping/Delivery,"This delay is unacceptable, I needed this for an event.",-0.6486,Negative,0,6.7
+TICKET00777,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.,-0.296,Neutral,0,12.3
+TICKET00778,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,14.3
+TICKET00779,General Inquiry,Do you offer student discounts on annual plans?,0.0,Neutral,1,2.5
+TICKET00780,Account Access,I can't access my account from my new phone.,0.0,Neutral,0,10.4
+TICKET00781,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,8.2
+TICKET00782,Shipping/Delivery,Tracking says delivered but I never received anything.,0.0,Neutral,0,23.7
+TICKET00783,Billing,This is the third time I've been overcharged. Extremely frustrating.,-0.4927,Negative,1,41.6
+TICKET00784,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,1,13.0
+TICKET00785,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,5.9
+TICKET00786,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,4.0
+TICKET00787,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,0,8.6
+TICKET00788,Account Access,"My account got locked after too many login attempts, please help.",0.6124,Positive,0,1.4
+TICKET00789,Account Access,"Someone please unlock my account, I've been trying for an hour.",0.3182,Positive,0,1.3
+TICKET00790,Billing,"I was charged twice for my subscription this month, please refund the extra charge.",0.128,Neutral,0,0.8
+TICKET00791,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through.",0.6808,Positive,0,2.7
+TICKET00792,Billing,"My invoice shows an incorrect amount, can someone check this?",0.0,Neutral,0,7.9
+TICKET00793,Account Access,I forgot my password and the reset link isn't arriving in my email.,0.0,Neutral,1,16.8
+TICKET00794,Technical Issue,"I can't upload files anymore, getting an error message constantly.",-0.4019,Negative,0,4.3
+TICKET00795,General Inquiry,What are your customer support hours on weekends?,0.4019,Positive,0,3.8
+TICKET00796,Technical Issue,"Nothing is working today, this is the worst experience I've had.",-0.6249,Negative,1,4.1
+TICKET00797,Billing,I need a receipt for last month's payment for my records.,0.0,Neutral,0,7.5
+TICKET00798,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying.",-0.4576,Negative,0,12.3
+TICKET00799,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great.",0.8402,Positive,1,26.6

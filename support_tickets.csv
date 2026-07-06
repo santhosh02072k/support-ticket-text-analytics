@@ -1,0 +1,801 @@
+ticket_id,category,ticket_text
+TICKET00000,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00001,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00002,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00003,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00004,Account Access,I can't access my account from my new phone.
+TICKET00005,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00006,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00007,Billing,I need a receipt for last month's payment for my records.
+TICKET00008,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00009,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00010,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00011,Billing,I need a receipt for last month's payment for my records.
+TICKET00012,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00013,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00014,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00015,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00016,Billing,I need a receipt for last month's payment for my records.
+TICKET00017,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00018,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00019,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00020,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00021,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00022,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00023,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00024,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00025,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00026,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00027,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00028,General Inquiry,What are your customer support hours on weekends?
+TICKET00029,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00030,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00031,Technical Issue,The website has been down for me since this morning.
+TICKET00032,Shipping/Delivery,Tracking says delivered but I never received anything.
+TICKET00033,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00034,Shipping/Delivery,Tracking says delivered but I never received anything.
+TICKET00035,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00036,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00037,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00038,Shipping/Delivery,"This delay is unacceptable, I needed this for an event."
+TICKET00039,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00040,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00041,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00042,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00043,Account Access,I can't access my account from my new phone.
+TICKET00044,Shipping/Delivery,Tracking says delivered but I never received anything.
+TICKET00045,Shipping/Delivery,"This delay is unacceptable, I needed this for an event."
+TICKET00046,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00047,General Inquiry,What are your customer support hours on weekends?
+TICKET00048,Technical Issue,The website has been down for me since this morning.
+TICKET00049,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00050,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00051,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00052,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00053,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00054,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00055,Account Access,"Two-factor authentication code never arrives, I'm stuck."
+TICKET00056,Technical Issue,The website has been down for me since this morning.
+TICKET00057,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00058,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00059,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00060,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00061,Shipping/Delivery,"This delay is unacceptable, I needed this for an event."
+TICKET00062,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00063,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00064,Shipping/Delivery,"This delay is unacceptable, I needed this for an event."
+TICKET00065,Billing,I need a receipt for last month's payment for my records.
+TICKET00066,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00067,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00068,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00069,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00070,Account Access,"Two-factor authentication code never arrives, I'm stuck."
+TICKET00071,Billing,I need a receipt for last month's payment for my records.
+TICKET00072,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00073,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00074,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00075,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00076,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00077,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00078,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00079,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00080,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00081,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00082,Shipping/Delivery,Tracking says delivered but I never received anything.
+TICKET00083,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00084,Account Access,"Two-factor authentication code never arrives, I'm stuck."
+TICKET00085,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00086,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00087,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00088,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00089,Shipping/Delivery,Tracking says delivered but I never received anything.
+TICKET00090,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00091,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00092,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00093,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00094,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00095,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00096,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00097,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00098,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00099,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00100,General Inquiry,What are your customer support hours on weekends?
+TICKET00101,Technical Issue,The website has been down for me since this morning.
+TICKET00102,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00103,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00104,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00105,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00106,Billing,I need a receipt for last month's payment for my records.
+TICKET00107,Technical Issue,The website has been down for me since this morning.
+TICKET00108,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00109,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00110,General Inquiry,What are your customer support hours on weekends?
+TICKET00111,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00112,Shipping/Delivery,"This delay is unacceptable, I needed this for an event."
+TICKET00113,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00114,Account Access,I can't access my account from my new phone.
+TICKET00115,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00116,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00117,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00118,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00119,Account Access,"Two-factor authentication code never arrives, I'm stuck."
+TICKET00120,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00121,General Inquiry,What are your customer support hours on weekends?
+TICKET00122,Technical Issue,The website has been down for me since this morning.
+TICKET00123,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00124,Technical Issue,The website has been down for me since this morning.
+TICKET00125,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00126,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00127,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00128,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00129,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00130,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00131,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00132,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00133,Shipping/Delivery,"This delay is unacceptable, I needed this for an event."
+TICKET00134,Billing,I need a receipt for last month's payment for my records.
+TICKET00135,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00136,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00137,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00138,Shipping/Delivery,"This delay is unacceptable, I needed this for an event."
+TICKET00139,Billing,I need a receipt for last month's payment for my records.
+TICKET00140,Shipping/Delivery,Tracking says delivered but I never received anything.
+TICKET00141,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00142,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00143,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00144,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00145,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00146,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00147,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00148,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00149,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00150,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00151,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00152,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00153,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00154,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00155,Shipping/Delivery,Tracking says delivered but I never received anything.
+TICKET00156,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00157,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00158,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00159,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00160,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00161,Account Access,"Two-factor authentication code never arrives, I'm stuck."
+TICKET00162,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00163,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00164,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00165,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00166,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00167,Account Access,"Two-factor authentication code never arrives, I'm stuck."
+TICKET00168,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00169,Account Access,"Two-factor authentication code never arrives, I'm stuck."
+TICKET00170,Shipping/Delivery,Tracking says delivered but I never received anything.
+TICKET00171,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00172,Billing,I need a receipt for last month's payment for my records.
+TICKET00173,Account Access,I can't access my account from my new phone.
+TICKET00174,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00175,Shipping/Delivery,Tracking says delivered but I never received anything.
+TICKET00176,Account Access,I can't access my account from my new phone.
+TICKET00177,General Inquiry,What are your customer support hours on weekends?
+TICKET00178,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00179,Account Access,I can't access my account from my new phone.
+TICKET00180,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00181,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00182,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00183,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00184,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00185,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00186,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00187,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00188,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00189,Account Access,"Two-factor authentication code never arrives, I'm stuck."
+TICKET00190,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00191,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00192,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00193,Shipping/Delivery,"This delay is unacceptable, I needed this for an event."
+TICKET00194,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00195,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00196,General Inquiry,What are your customer support hours on weekends?
+TICKET00197,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00198,Shipping/Delivery,"This delay is unacceptable, I needed this for an event."
+TICKET00199,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00200,Technical Issue,The website has been down for me since this morning.
+TICKET00201,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00202,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00203,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00204,General Inquiry,What are your customer support hours on weekends?
+TICKET00205,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00206,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00207,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00208,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00209,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00210,Shipping/Delivery,Tracking says delivered but I never received anything.
+TICKET00211,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00212,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00213,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00214,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00215,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00216,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00217,Account Access,I can't access my account from my new phone.
+TICKET00218,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00219,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00220,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00221,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00222,Technical Issue,The website has been down for me since this morning.
+TICKET00223,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00224,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00225,Account Access,I can't access my account from my new phone.
+TICKET00226,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00227,General Inquiry,What are your customer support hours on weekends?
+TICKET00228,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00229,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00230,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00231,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00232,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00233,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00234,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00235,Shipping/Delivery,"This delay is unacceptable, I needed this for an event."
+TICKET00236,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00237,Account Access,"Two-factor authentication code never arrives, I'm stuck."
+TICKET00238,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00239,Billing,I need a receipt for last month's payment for my records.
+TICKET00240,Billing,I need a receipt for last month's payment for my records.
+TICKET00241,Account Access,I can't access my account from my new phone.
+TICKET00242,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00243,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00244,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00245,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00246,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00247,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00248,Account Access,"Two-factor authentication code never arrives, I'm stuck."
+TICKET00249,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00250,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00251,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00252,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00253,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00254,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00255,Billing,I need a receipt for last month's payment for my records.
+TICKET00256,General Inquiry,What are your customer support hours on weekends?
+TICKET00257,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00258,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00259,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00260,Technical Issue,The website has been down for me since this morning.
+TICKET00261,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00262,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00263,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00264,Technical Issue,The website has been down for me since this morning.
+TICKET00265,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00266,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00267,Billing,I need a receipt for last month's payment for my records.
+TICKET00268,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00269,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00270,Shipping/Delivery,"This delay is unacceptable, I needed this for an event."
+TICKET00271,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00272,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00273,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00274,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00275,Billing,I need a receipt for last month's payment for my records.
+TICKET00276,Billing,I need a receipt for last month's payment for my records.
+TICKET00277,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00278,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00279,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00280,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00281,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00282,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00283,Account Access,"Two-factor authentication code never arrives, I'm stuck."
+TICKET00284,Shipping/Delivery,"This delay is unacceptable, I needed this for an event."
+TICKET00285,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00286,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00287,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00288,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00289,Account Access,I can't access my account from my new phone.
+TICKET00290,Shipping/Delivery,"This delay is unacceptable, I needed this for an event."
+TICKET00291,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00292,Account Access,"Two-factor authentication code never arrives, I'm stuck."
+TICKET00293,Shipping/Delivery,Tracking says delivered but I never received anything.
+TICKET00294,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00295,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00296,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00297,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00298,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00299,General Inquiry,What are your customer support hours on weekends?
+TICKET00300,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00301,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00302,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00303,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00304,Billing,I need a receipt for last month's payment for my records.
+TICKET00305,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00306,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00307,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00308,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00309,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00310,Technical Issue,The website has been down for me since this morning.
+TICKET00311,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00312,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00313,Technical Issue,The website has been down for me since this morning.
+TICKET00314,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00315,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00316,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00317,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00318,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00319,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00320,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00321,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00322,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00323,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00324,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00325,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00326,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00327,Account Access,"Two-factor authentication code never arrives, I'm stuck."
+TICKET00328,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00329,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00330,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00331,Shipping/Delivery,"This delay is unacceptable, I needed this for an event."
+TICKET00332,Account Access,I can't access my account from my new phone.
+TICKET00333,Account Access,"Two-factor authentication code never arrives, I'm stuck."
+TICKET00334,Shipping/Delivery,Tracking says delivered but I never received anything.
+TICKET00335,General Inquiry,What are your customer support hours on weekends?
+TICKET00336,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00337,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00338,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00339,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00340,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00341,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00342,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00343,Account Access,I can't access my account from my new phone.
+TICKET00344,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00345,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00346,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00347,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00348,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00349,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00350,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00351,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00352,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00353,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00354,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00355,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00356,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00357,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00358,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00359,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00360,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00361,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00362,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00363,Shipping/Delivery,Tracking says delivered but I never received anything.
+TICKET00364,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00365,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00366,Billing,I need a receipt for last month's payment for my records.
+TICKET00367,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00368,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00369,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00370,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00371,Account Access,I can't access my account from my new phone.
+TICKET00372,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00373,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00374,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00375,Technical Issue,The website has been down for me since this morning.
+TICKET00376,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00377,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00378,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00379,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00380,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00381,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00382,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00383,Account Access,I can't access my account from my new phone.
+TICKET00384,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00385,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00386,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00387,Billing,I need a receipt for last month's payment for my records.
+TICKET00388,Billing,I need a receipt for last month's payment for my records.
+TICKET00389,Technical Issue,The website has been down for me since this morning.
+TICKET00390,Shipping/Delivery,Tracking says delivered but I never received anything.
+TICKET00391,Account Access,I can't access my account from my new phone.
+TICKET00392,Technical Issue,The website has been down for me since this morning.
+TICKET00393,Technical Issue,The website has been down for me since this morning.
+TICKET00394,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00395,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00396,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00397,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00398,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00399,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00400,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00401,Account Access,I can't access my account from my new phone.
+TICKET00402,Billing,I need a receipt for last month's payment for my records.
+TICKET00403,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00404,Billing,I need a receipt for last month's payment for my records.
+TICKET00405,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00406,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00407,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00408,Account Access,"Two-factor authentication code never arrives, I'm stuck."
+TICKET00409,General Inquiry,What are your customer support hours on weekends?
+TICKET00410,Shipping/Delivery,"This delay is unacceptable, I needed this for an event."
+TICKET00411,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00412,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00413,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00414,Shipping/Delivery,"This delay is unacceptable, I needed this for an event."
+TICKET00415,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00416,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00417,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00418,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00419,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00420,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00421,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00422,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00423,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00424,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00425,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00426,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00427,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00428,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00429,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00430,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00431,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00432,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00433,Account Access,I can't access my account from my new phone.
+TICKET00434,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00435,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00436,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00437,Account Access,"Two-factor authentication code never arrives, I'm stuck."
+TICKET00438,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00439,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00440,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00441,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00442,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00443,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00444,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00445,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00446,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00447,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00448,Account Access,I can't access my account from my new phone.
+TICKET00449,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00450,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00451,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00452,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00453,Shipping/Delivery,"This delay is unacceptable, I needed this for an event."
+TICKET00454,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00455,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00456,Account Access,I can't access my account from my new phone.
+TICKET00457,Billing,I need a receipt for last month's payment for my records.
+TICKET00458,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00459,General Inquiry,What are your customer support hours on weekends?
+TICKET00460,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00461,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00462,Shipping/Delivery,Tracking says delivered but I never received anything.
+TICKET00463,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00464,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00465,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00466,Account Access,"Two-factor authentication code never arrives, I'm stuck."
+TICKET00467,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00468,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00469,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00470,General Inquiry,What are your customer support hours on weekends?
+TICKET00471,Shipping/Delivery,Tracking says delivered but I never received anything.
+TICKET00472,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00473,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00474,Account Access,"Two-factor authentication code never arrives, I'm stuck."
+TICKET00475,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00476,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00477,General Inquiry,What are your customer support hours on weekends?
+TICKET00478,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00479,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00480,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00481,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00482,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00483,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00484,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00485,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00486,Billing,I need a receipt for last month's payment for my records.
+TICKET00487,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00488,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00489,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00490,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00491,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00492,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00493,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00494,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00495,Shipping/Delivery,Tracking says delivered but I never received anything.
+TICKET00496,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00497,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00498,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00499,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00500,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00501,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00502,Technical Issue,The website has been down for me since this morning.
+TICKET00503,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00504,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00505,Shipping/Delivery,Tracking says delivered but I never received anything.
+TICKET00506,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00507,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00508,Technical Issue,The website has been down for me since this morning.
+TICKET00509,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00510,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00511,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00512,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00513,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00514,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00515,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00516,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00517,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00518,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00519,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00520,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00521,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00522,General Inquiry,What are your customer support hours on weekends?
+TICKET00523,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00524,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00525,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00526,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00527,Account Access,I can't access my account from my new phone.
+TICKET00528,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00529,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00530,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00531,General Inquiry,What are your customer support hours on weekends?
+TICKET00532,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00533,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00534,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00535,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00536,Billing,I need a receipt for last month's payment for my records.
+TICKET00537,Account Access,I can't access my account from my new phone.
+TICKET00538,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00539,Technical Issue,The website has been down for me since this morning.
+TICKET00540,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00541,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00542,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00543,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00544,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00545,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00546,Account Access,I can't access my account from my new phone.
+TICKET00547,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00548,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00549,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00550,Shipping/Delivery,Tracking says delivered but I never received anything.
+TICKET00551,Billing,I need a receipt for last month's payment for my records.
+TICKET00552,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00553,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00554,Billing,I need a receipt for last month's payment for my records.
+TICKET00555,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00556,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00557,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00558,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00559,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00560,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00561,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00562,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00563,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00564,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00565,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00566,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00567,Technical Issue,The website has been down for me since this morning.
+TICKET00568,General Inquiry,What are your customer support hours on weekends?
+TICKET00569,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00570,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00571,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00572,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00573,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00574,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00575,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00576,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00577,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00578,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00579,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00580,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00581,General Inquiry,What are your customer support hours on weekends?
+TICKET00582,General Inquiry,What are your customer support hours on weekends?
+TICKET00583,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00584,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00585,Account Access,I can't access my account from my new phone.
+TICKET00586,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00587,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00588,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00589,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00590,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00591,General Inquiry,What are your customer support hours on weekends?
+TICKET00592,Account Access,I can't access my account from my new phone.
+TICKET00593,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00594,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00595,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00596,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00597,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00598,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00599,Billing,I need a receipt for last month's payment for my records.
+TICKET00600,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00601,Technical Issue,The website has been down for me since this morning.
+TICKET00602,Technical Issue,The website has been down for me since this morning.
+TICKET00603,Account Access,I can't access my account from my new phone.
+TICKET00604,General Inquiry,What are your customer support hours on weekends?
+TICKET00605,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00606,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00607,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00608,Technical Issue,The website has been down for me since this morning.
+TICKET00609,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00610,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00611,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00612,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00613,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00614,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00615,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00616,Account Access,I can't access my account from my new phone.
+TICKET00617,Account Access,"Two-factor authentication code never arrives, I'm stuck."
+TICKET00618,General Inquiry,What are your customer support hours on weekends?
+TICKET00619,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00620,Billing,I need a receipt for last month's payment for my records.
+TICKET00621,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00622,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00623,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00624,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00625,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00626,Technical Issue,The website has been down for me since this morning.
+TICKET00627,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00628,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00629,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00630,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00631,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00632,General Inquiry,What are your customer support hours on weekends?
+TICKET00633,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00634,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00635,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00636,Billing,I need a receipt for last month's payment for my records.
+TICKET00637,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00638,Shipping/Delivery,Tracking says delivered but I never received anything.
+TICKET00639,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00640,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00641,Shipping/Delivery,"This delay is unacceptable, I needed this for an event."
+TICKET00642,Shipping/Delivery,Tracking says delivered but I never received anything.
+TICKET00643,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00644,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00645,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00646,Technical Issue,The website has been down for me since this morning.
+TICKET00647,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00648,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00649,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00650,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00651,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00652,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00653,Account Access,I can't access my account from my new phone.
+TICKET00654,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00655,Technical Issue,The website has been down for me since this morning.
+TICKET00656,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00657,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00658,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00659,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00660,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00661,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00662,Technical Issue,The website has been down for me since this morning.
+TICKET00663,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00664,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00665,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00666,Technical Issue,The website has been down for me since this morning.
+TICKET00667,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00668,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00669,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00670,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00671,Account Access,I can't access my account from my new phone.
+TICKET00672,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00673,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00674,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00675,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00676,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00677,General Inquiry,What are your customer support hours on weekends?
+TICKET00678,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00679,Shipping/Delivery,"This delay is unacceptable, I needed this for an event."
+TICKET00680,Billing,I need a receipt for last month's payment for my records.
+TICKET00681,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00682,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00683,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00684,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00685,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00686,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00687,Account Access,"Two-factor authentication code never arrives, I'm stuck."
+TICKET00688,Billing,I need a receipt for last month's payment for my records.
+TICKET00689,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00690,Account Access,I can't access my account from my new phone.
+TICKET00691,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00692,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00693,Shipping/Delivery,Tracking says delivered but I never received anything.
+TICKET00694,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00695,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00696,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00697,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00698,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00699,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00700,Account Access,I can't access my account from my new phone.
+TICKET00701,Shipping/Delivery,"This delay is unacceptable, I needed this for an event."
+TICKET00702,Account Access,"Two-factor authentication code never arrives, I'm stuck."
+TICKET00703,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00704,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00705,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00706,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00707,Technical Issue,The website has been down for me since this morning.
+TICKET00708,Technical Issue,The website has been down for me since this morning.
+TICKET00709,Account Access,I can't access my account from my new phone.
+TICKET00710,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00711,Account Access,I can't access my account from my new phone.
+TICKET00712,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00713,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00714,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00715,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00716,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00717,Billing,I need a receipt for last month's payment for my records.
+TICKET00718,Account Access,"Two-factor authentication code never arrives, I'm stuck."
+TICKET00719,General Inquiry,What are your customer support hours on weekends?
+TICKET00720,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00721,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00722,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00723,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00724,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00725,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00726,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00727,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00728,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00729,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00730,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00731,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00732,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00733,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00734,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00735,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00736,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00737,Account Access,I can't access my account from my new phone.
+TICKET00738,Technical Issue,The website has been down for me since this morning.
+TICKET00739,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00740,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00741,Shipping/Delivery,"This delay is unacceptable, I needed this for an event."
+TICKET00742,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00743,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00744,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00745,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00746,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00747,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00748,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00749,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00750,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00751,Technical Issue,The website has been down for me since this morning.
+TICKET00752,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00753,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00754,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
+TICKET00755,Shipping/Delivery,Can you tell me when my order will actually ship?
+TICKET00756,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00757,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00758,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00759,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00760,Account Access,"Two-factor authentication code never arrives, I'm stuck."
+TICKET00761,Billing,Why is my bill higher than usual? I did not change my plan.
+TICKET00762,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00763,Shipping/Delivery,"This delay is unacceptable, I needed this for an event."
+TICKET00764,General Inquiry,What are your customer support hours on weekends?
+TICKET00765,Technical Issue,The website has been down for me since this morning.
+TICKET00766,Shipping/Delivery,"This delay is unacceptable, I needed this for an event."
+TICKET00767,Billing,I need a receipt for last month's payment for my records.
+TICKET00768,Technical Issue,"Login page won't load, tried on two browsers already."
+TICKET00769,General Inquiry,What are your customer support hours on weekends?
+TICKET00770,Shipping/Delivery,Tracking says delivered but I never received anything.
+TICKET00771,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00772,General Inquiry,Just wanted to ask about your return policy before I buy.
+TICKET00773,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00774,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00775,Shipping/Delivery,"The package arrived damaged, very disappointed with the packaging."
+TICKET00776,Shipping/Delivery,"This delay is unacceptable, I needed this for an event."
+TICKET00777,Shipping/Delivery,My order was supposed to arrive three days ago and there's no update.
+TICKET00778,Account Access,I can't access my account from my new phone.
+TICKET00779,General Inquiry,Do you offer student discounts on annual plans?
+TICKET00780,Account Access,I can't access my account from my new phone.
+TICKET00781,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00782,Shipping/Delivery,Tracking says delivered but I never received anything.
+TICKET00783,Billing,This is the third time I've been overcharged. Extremely frustrating.
+TICKET00784,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00785,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00786,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00787,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00788,Account Access,"My account got locked after too many login attempts, please help."
+TICKET00789,Account Access,"Someone please unlock my account, I've been trying for an hour."
+TICKET00790,Billing,"I was charged twice for my subscription this month, please refund the extra charge."
+TICKET00791,General Inquiry,"Thanks for the quick help earlier, just confirming the update went through."
+TICKET00792,Billing,"My invoice shows an incorrect amount, can someone check this?"
+TICKET00793,Account Access,I forgot my password and the reset link isn't arriving in my email.
+TICKET00794,Technical Issue,"I can't upload files anymore, getting an error message constantly."
+TICKET00795,General Inquiry,What are your customer support hours on weekends?
+TICKET00796,Technical Issue,"Nothing is working today, this is the worst experience I've had."
+TICKET00797,Billing,I need a receipt for last month's payment for my records.
+TICKET00798,Technical Issue,"The app keeps crashing every time I try to log in, this is really annoying."
+TICKET00799,General Inquiry,"Loved the recent update, just wanted to say the new dashboard looks great."
